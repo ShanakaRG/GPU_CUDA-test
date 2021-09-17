@@ -1,8 +1,8 @@
 # GPU_CUDA-test
-This python script can be used to test the CUDA installation with the python packages namely Pytorch, Tensorflow and Keras.   
+This python script can be used to check whether the CUDA installation is correct with the python packages namely Pytorch, Tensorflow and Keras.   
 
-before run this script, install GPU versions of the python packages and then run the script. Script allows to test all three above mentioned packages 
-but if you need to test a specific one from the above, make sure to comment the rest. 
+before running this script, install GPU versions of the python packages and then run the script. The script allows testing all three above mentioned packages 
+but if you need to test a specific one from the above, make sure to comment on the rest. 
 
 For Python package installation guide refer, 
 
